@@ -40,7 +40,7 @@ The brilliant thing about having this connected to my raspberry pi and having a 
 <img src="https://raw.githubusercontent.com/EngineeringDads/Self-Watering-Smart-Garden/main/Stake.jpg" width="700" height="400">
 <img src="https://raw.githubusercontent.com/EngineeringDads/Self-Watering-Smart-Garden/main/Drop%20Saw.jpg" width="700" height="400">
 
-To duplicate this project, open the [Project_Eden.ino](https://github.com/EngineeringDads/Smart-Humidifier/blob/main/Smart_Diffuser.ino "Smart Diffuser.ino") and upload it to the board, using your computer and a mini-usb cable. The node-red flow is also available for anyone wishing to extend this project onto a live server.
+To duplicate this project, open the [Project_Eden.ino](https://github.com/EngineeringDads/Self-Watering-Smart-Garden/blob/main/Project_Eden.ino "Project_Eden.ino") and upload it to the board, using your computer and a mini-usb cable. The node-red flow is also available for anyone wishing to extend this project onto a live server.
 
 Lastly, i would like to give many thanks to:
 - alex-controlx, who provides an excellent explanation of how to work with graphical interfaces using SVG, and how to change the graphical interface when data is received/sent. Please see the link to the github here https://github.com/alex-controlx/red-dashboard-svg-control
