@@ -14,9 +14,9 @@ int sensorPin = A0;
 int sensorValue;  
 int limit = 300; 
 
-const char* ssid = "Vodafone-FD8C2 2.4G";
-const char* password = "T9SWhKhzmfb76d37";
-const char* mqtt_server = "192.168.1.28";
+const char* ssid = 
+const char* password = 
+const char* mqtt_server = 
 
 WiFiClient espClient;
 PubSubClient client(espClient);
